@@ -6,3 +6,6 @@ My own azure resume, following [ACG's youtube video.](https://www.youtube.com/wa
 - Frontend folder contains website
 - main.js contains visitor counter code
 
+```js
+const functionApi
+```
