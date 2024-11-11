@@ -9,3 +9,9 @@ My own azure resume, following [ACG's youtube video.](https://www.youtube.com/wa
 ```js
 const functionApi
 ```
+
+## Second steps
+
+- Backend folder contains website
+- Created CosmosDB on azure for api counter
+- Notes on notion regarding errors & solutions
