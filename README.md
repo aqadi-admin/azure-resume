@@ -15,3 +15,10 @@ const functionApi
 - Backend folder contains website
 - Created CosmosDB on azure for api counter
 - Notes on notion regarding errors & solutions
+
+## Third steps
+
+- Created function on VScode and deployed to Azure
+- Created endpoint for it on Azure
+- Setup resume domain & CNAME record on fasthosts
+- Created custom domain on Azure
